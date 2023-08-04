@@ -1,5 +1,7 @@
-.hello {
-  color: red;
+body {
   font-family: 'Borel', cursive;
-  background: url('./img.png');
+}
+
+.template {
+  color: rgb(142, 10, 10);
 }
