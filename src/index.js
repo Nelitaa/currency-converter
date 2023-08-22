@@ -18,7 +18,7 @@ function component() {
 
   element.appendChild(btn);
   element.appendChild(myImage);
-  
+
   return element;
 }
 
